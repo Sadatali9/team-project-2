@@ -20,6 +20,11 @@ def check_password_strength(password: str) -> str:
         return "Weak: Missing special char"
     return "Strong password"
 
+
+def validate_username(username: str) -> bool:
+    return bool(re.fullmatch(r"[A-Za-z0-9_]{3,20}", username))
+
+
 def greet():
     print("Welcome to the Secure Software Design Team Project!")
 
