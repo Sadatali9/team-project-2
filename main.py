@@ -1,4 +1,4 @@
-# VERSION A - versioned utility module
+# VERSION A and B - versioned logging utility module
 # Secure Software Design and Development - Team Project
 # Author: Sadat Ali (FA23-BCT-034)
 
