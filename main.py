@@ -1,4 +1,4 @@
-# main.py
+# VERSION A - versioned utility module
 # Secure Software Design and Development - Team Project
 # Author: Sadat Ali (FA23-BCT-034)
 
