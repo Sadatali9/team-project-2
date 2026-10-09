@@ -1,4 +1,4 @@
-# main.py
+# VERSION B - logging-enabled utility module
 # Secure Software Design and Development - Team Project
 # Author: Sadat Ali (FA23-BCT-034)
 
